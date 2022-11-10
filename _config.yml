@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Welcome to Yana's Portfolio
+description: This site was created to show my portfolio from various industries that I have been with
